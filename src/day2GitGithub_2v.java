@@ -17,6 +17,7 @@ public class day2GitGithub_2v {
     kullanırız.
     Not_2: git log --oneline --> commitlerimdeki yani versiyonlarımdaki durumu gösterir
     Not_3: Github öğrendim 2v
+    Not_4: Github öğrendim version2
 
  */
 
