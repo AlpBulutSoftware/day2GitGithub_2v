@@ -18,6 +18,8 @@ public class day2GitGithub_2v {
     Not_2: git log --oneline --> commitlerimdeki yani versiyonlarımdaki durumu gösterir
     Not_3: Github öğrendim 2v
     Not_4: Github öğrendim version2
+    6-) git pull --> remote yani uzak repo'daki dosyalarımızı güncellemek için kullanılır.
+
 
  */
 
