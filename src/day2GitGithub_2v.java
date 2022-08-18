@@ -19,6 +19,7 @@ public class day2GitGithub_2v {
     Not_3: Github öğrendim 2v
     Not_4: Github öğrendim version2
     6-) git pull --> remote yani uzak repo'daki dosyalarımızı güncellemek için kullanılır.
+    Not_5: Github çok eğlenceli
 
 
  */
